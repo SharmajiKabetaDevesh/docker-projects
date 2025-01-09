@@ -38,6 +38,13 @@ Example: A web app and a database running in different containers can be isolate
 With containers, organizations can deploy their applications across multiple cloud providers or across on-premises and cloud infrastructure, making it easier to build hybrid or multi-cloud architectures. This avoids vendor lock-in and gives flexibility in terms of pricing and infrastructure choices.
 
 Example: A company may run its main application on AWS but use Azure for data storage and disaster recovery. Containers allow seamless integration of these services across both clouds.
+10. Cost Savings
+Because containers allow better resource utilization (more apps per server), companies can save on hardware costs. Additionally, the fast deployment and scaling capabilities reduce infrastructure and operational costs.
+
+Example: A SaaS provider could save significant money on cloud resources by using containers, as they can run more services on fewer servers and scale resources only when needed.
+
+
+
 ![DockerNotes_page-0001](https://github.com/user-attachments/assets/29017aea-6544-4ac6-b3a1-d2db8e61352e)
 ![DockerNotes_page-0002](https://github.com/user-attachments/assets/d4a05cec-a41e-4386-b295-dbf5dd356651)
 ![DockerNotes_page-0003](https://github.com/user-attachments/assets/b4d3a0f9-6167-4b96-954b-af79bc7ee236)
@@ -46,7 +53,4 @@ Example: A company may run its main application on AWS but use Azure for data st
 ![DockerNotes_page-0006](https://github.com/user-attachments/assets/ad4627a8-7651-4e5a-af63-8b0049056cc1)
 ![DockerNotes_page-0007](https://github.com/user-attachments/assets/277a84d4-12a1-4d19-b747-5f24bdd6af99)
 
-10. Cost Savings
-Because containers allow better resource utilization (more apps per server), companies can save on hardware costs. Additionally, the fast deployment and scaling capabilities reduce infrastructure and operational costs.
 
-Example: A SaaS provider could save significant money on cloud resources by using containers, as they can run more services on fewer servers and scale resources only when needed.****
